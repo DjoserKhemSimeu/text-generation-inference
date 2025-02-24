@@ -318,7 +318,7 @@ tokenizers==0.21.0
     # via
     #   text-generation-server (pyproject.toml)
     #   transformers
-torch==2.6.0
+torch==2.4.0
     # via
     #   accelerate
     #   compressed-tensors
